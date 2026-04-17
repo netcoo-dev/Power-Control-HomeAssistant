@@ -100,7 +100,6 @@ input_text:
 input_boolean:
   check_distacco:
     initial: "off"
-    restore: true
   power_control_test_mode:
     name: Modalità Test (no spegnimento reale)
     icon: mdi:test-tube
